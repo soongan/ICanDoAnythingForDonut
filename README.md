@@ -1,3 +1,9 @@
+# 던킨 도넛 메뉴 별 칼로리 계산
+# 걸어야할 거리 계산
+# 먹고 싶은 메뉴 고르고
+# 지금 내 위치에서 네이버 걸음 속도로 있는 지점 추천
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
