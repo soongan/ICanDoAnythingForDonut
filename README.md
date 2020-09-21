@@ -8,6 +8,7 @@
 
 지금 내 위치에서 네이버 걸음 속도로 있는 지점 추천
 
+based on Seoul and Manhattan.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
