@@ -1,6 +1,6 @@
 # TODO
+**적정기술**
 
-도넛 이미지 추가 
 
 던킨 도넛 메뉴 별 칼로리 계산
 
@@ -10,7 +10,10 @@
 
 지금 내 위치에서 네이버 걸음 속도로 있는 지점 추천
 
-based on Seoul and Manhattan.
+- [x] 도넛 이미지 추가 : 2020-09-23(wed) 
+
+** one more thing **
+- [ ] based on Seoul and Manhattan.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
