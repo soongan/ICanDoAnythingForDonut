@@ -1,3 +1,6 @@
+// TODO : or python read data from pdf
+// https://www.dunkindonuts.com/content/dam/dd/pdf/nutrition.pdf
+
 export const famousGlazed = {
     name: '페이머스 글레이즈드',
     nutritionFacts: {
@@ -7,6 +10,7 @@ export const famousGlazed = {
         Na: '300mg'
     },
     kcal: 210,
+    image: '',
 };
 
 export const strawberryFilled = {
@@ -18,6 +22,7 @@ export const strawberryFilled = {
         Na: '310mg'
     },
     kcal: 235,
+    image: '',
 };
 
 export const bavarianFilled = {
@@ -29,6 +34,7 @@ export const bavarianFilled = {
         Na: '310mg'
     },
     kcal: 215,
+    image: '',
 };
 
 export const blueberryField = {
@@ -40,6 +46,7 @@ export const blueberryField = {
         Na: '330mg'
     },
     kcal: 200,
+    image: '',
 };
 
 export const bostonKreme = {
@@ -51,6 +58,7 @@ export const bostonKreme = {
         Na: '280mg'
     },
     kcal: 250,
+    image: '',
 };
 
 export const oldFashionedGlazed = {
@@ -62,6 +70,7 @@ export const oldFashionedGlazed = {
         Na: '130mg'
     },
     kcal: 280,
+    image: '',
 };
 
 export const honeyFritter = {
@@ -73,6 +82,7 @@ export const honeyFritter = {
         Na: '470mg'
     },
     kcal: 310,
+    image: '',
 };
 
 export const oliveChewisty = {
@@ -85,6 +95,7 @@ export const oliveChewisty = {
         Na: '210mg'
     },
     kcal: 220,
+    image: '',
 };
 
 export const  dualFillngHeartDonut = {
@@ -96,28 +107,7 @@ export const  dualFillngHeartDonut = {
         Na: '310mg'
     },
     kcal: 280,
-};
-
-export const  dualFillngHeartDonut = {
-    name: '사랑에 빠진 하트',
-    nutritionFacts: {
-        sugar: '12g',
-        protein: '3g', 
-        fat: '7g',
-        Na: '310mg'
-    },
-    kcal: 280,
-};
-
-export const  dualFillngHeartDonut = {
-    name: '사랑에 빠진 하트',
-    nutritionFacts: {
-        sugar: '12g',
-        protein: '3g', 
-        fat: '7g',
-        Na: '310mg'
-    },
-    kcal: 280,
+    image: '',
 };
 
 export const  munchkinSet10ea = {
@@ -129,5 +119,6 @@ export const  munchkinSet10ea = {
         Na: '830mg'
     },
     kcal: 660,
-    info: '1세트 - 중량 80~150, 열량 330~660, 나트륨 400~830, 당류 20~30, 포화지방 7~15, 단백질 3~7'
+    image: '',
+    info: '1세트 - 중량 80~150, 열량 330~660, 나트륨 400~830, 당류 20~30, 포화지방 7~15, 단백질 3~7',
 };
