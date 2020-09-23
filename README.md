@@ -18,8 +18,8 @@
 
 
 # UI 템플릿 list up
-https://www.uplabs.com/posts/e-commerce-online-fruits-store-mobile-app-ui-kit
-
+- [ ] https://www.uplabs.com/posts/e-commerce-online-fruits-store-mobile-app-ui-kit
+- [ ] https://www.uplabs.com/posts/e-commerce-furniture-app-ui
 
 <details>
     <summary>Details</summary>
@@ -92,5 +92,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
+g
 </details>
