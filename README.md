@@ -2,11 +2,12 @@
 **적정기술**
 
 
+
+- [ ] 지금 내 위치에서 네이버 걸음 속도로 있는 지점 추천
+
 - [ ] 걸어야할 거리 계산
 
 - [ ] 먹고 싶은 메뉴 고르고
-
-- [ ] 지금 내 위치에서 네이버 걸음 속도로 있는 지점 추천
 
 - [ ] 던킨 도넛 메뉴 별 칼로리 정렬
 
@@ -15,6 +16,14 @@
 ** one more thing **
 - [ ] based on Seoul and Manhattan.
 
+
+# UI 템플릿 list up
+https://www.uplabs.com/posts/e-commerce-online-fruits-store-mobile-app-ui-kit
+
+
+<details>
+    <summary>Details</summary>
+    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -83,3 +92,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+</details>
