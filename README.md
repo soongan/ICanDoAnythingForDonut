@@ -3,7 +3,7 @@
 
 
 
-- [ ] 지금 내 위치에서 네이버 걸음 속도로 있는 지점 추천
+- [ ] https://www.ncloud.com/product/applicationService/maps : 지금 내 위치에서 네이버 걸음 속도로 있는 지점 추천
 
 - [ ] 걸어야할 거리 계산
 
