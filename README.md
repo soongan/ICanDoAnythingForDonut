@@ -16,6 +16,8 @@
 ** one more thing **
 - [ ] based on Seoul and Manhattan.
 
+- [ ] open street map 으로 도넛길 생성. 도넛로드? 
+
 
 # UI 템플릿 list up
 - [ ] https://www.uplabs.com/posts/e-commerce-online-fruits-store-mobile-app-ui-kit
