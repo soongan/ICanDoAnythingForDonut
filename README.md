@@ -2,6 +2,9 @@
 **적정기술**
 
 
+- [ ] 구글지도. 내 위치 표현하기 : https://developers.google.com/maps/documentation?hl=ko
+
+- [ ] leaflet.js 사용
 
 - [ ] https://www.ncloud.com/product/applicationService/maps : 지금 내 위치에서 네이버 걸음 속도로 있는 지점 추천
 
