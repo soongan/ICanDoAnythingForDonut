@@ -1,0 +1,2 @@
+export const naverUrl = "https://openapi.map.naver.com/openapi/v3/maps.js"
+clientId=YOUR_CLIENT_ID

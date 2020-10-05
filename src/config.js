@@ -1,0 +1,1 @@
+export const naverUrl = "https://openapi.map.naver.com/openapi/v3/maps.js"
